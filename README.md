@@ -20,7 +20,7 @@ wget https://raw.githubusercontent.com/Jaibw/minikube-grafana/master/install-gra
 sh install-grafana.sh
 </pre>
 
-Try to access Grafana at http://PUBLIC_IP:31000/
+Try to access Grafana at http://Public-IPv4-DNS:31000/
 
 1. Add Prometheus Data Source - http://prometheus-server:80 
 2. Import Dashobard with 6417
